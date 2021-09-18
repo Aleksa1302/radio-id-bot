@@ -8,7 +8,7 @@
   "env": {
     "SESSION_NAME": {
       "description": "Pyrogram session string",
-      "required": true
-    },
+      "required": false
+    }
   }
 }
